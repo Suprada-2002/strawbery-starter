@@ -85,7 +85,7 @@
                 {/each}
              
                 </div>
-                <div class="swiper-pagination text-white">ss</div>
+                <div class="swiper-pagination text-white">* * *</div>
             </div>
         </div>
     </section>
@@ -102,6 +102,7 @@
         .swiper-pagination {
             bottom: 2px !important;
             color: white;
+            text-align: center;
         }
 
         .swiper-wrapper {
