@@ -93,21 +93,22 @@
 <style>
         .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
         .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
-            width: 16px !important;
-            height: 4px !important;
-            border-radius: 5px !important;
-            margin: 0 6px !important;
+            width: 16px;
+            height: 4px;
+            border-radius: 5px;
+            margin: 0 6px;
+            text-align: center;
         }
 
         .swiper-pagination {
-            bottom: 2px !important;
+            bottom: 2px;
             color: white;
             text-align: center;
         }
 
         .swiper-wrapper {
-            height: max-content !important;
-            width: max-content !important;
+            height: max-content;
+            width: max-content;
             padding-bottom: 64px;
         }
 
