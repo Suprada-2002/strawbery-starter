@@ -5,6 +5,21 @@ export const navLinks = [
     {label: "join", href: "join"}
 ];
 
+export const footerLinks = [
+  {
+    label :"Social",
+    links: ["Twitter", "Facebook", "Instagram","Linkedin", "+91 123456789"]
+  },
+  {
+    label :"Pricing",
+    links: ["Pricing Overview", "Delivery", "Enterprise"]
+  },
+    {
+    label :"Compnay",
+    links: ["Customer Support","About Us", "Patnership", "Blog", "Careers", "Support"]
+  },
+];
+
 export const testimonialData = [
   {
     name: "Dilshad Prashad",
